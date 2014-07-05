@@ -15,8 +15,13 @@
         "branch": "kk4.4"
     },
     {
-        "repository": "SlimSaber/proprietary_vendor_samsung",
-        "target_path": "vendor/samsung",
+        "repository": "SlimSaber/vendor_samsung_i9100",
+        "target_path": "vendor/samsung/i9100",
+        "branch": "kk4.4"
+    },
+    {
+        "repository": "SlimSaber/vendor_samsung_galaxys2-common",
+        "target_path": "vendor/samsung/galaxys2-common",
         "branch": "kk4.4"
     }
 ]
